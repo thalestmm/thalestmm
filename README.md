@@ -22,6 +22,11 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
+
+## My Articles:
+
+* **Lorem Ipsum:** https://medium.com/@meier.thales
+
 ---
 <!---
 thalestmm/thalestmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
