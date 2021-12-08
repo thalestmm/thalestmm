@@ -11,15 +11,14 @@ As a experienced Data Scientist and Air Force pilot I combine analytical skills,
 
 My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Operations Research, MCDM, Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/thales-m-meier-44593b17b)
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## My Projects:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
