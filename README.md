@@ -5,7 +5,7 @@
 </p>
 
 # Thales Monteiro Meier
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Science Consultant*</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
@@ -20,7 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## My Projects:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3EM33Ec
 
 
 ## My Articles:
