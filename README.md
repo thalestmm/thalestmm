@@ -7,7 +7,7 @@
 # Thales Monteiro Meier
 <sub>*Data Science Consultant*</sub>
 
-I'm a Cargo Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such analyzing the impact of transferring large military facilities through Brazil. My experience has also led me to develop analytical skills and the hability to lead team environments, while paying attention to details. 
+I'm a Cargo Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such as analyzing the impact of transferring large military facilities throughout Brazil. My experience has also led me to develop analytical skills and the hability to lead team environments, while paying attention to details. 
 
 Having spent the last years applying Data Science concepts and Machine Learning techniques to develop various solutions, I've developed critical thinking and problem-solving skills.
 
