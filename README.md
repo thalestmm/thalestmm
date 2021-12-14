@@ -14,7 +14,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** *Python, Operations Research, MCDM and Machine Learning*.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/thales-m-meier-44593b17b)
+* [LinkedIn](https://www.linkedin.com/in/thalestmm/)
 * [Medium](https://medium.com/@meier.thales)
 
 
