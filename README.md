@@ -15,7 +15,7 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thalestmm/)
-* [Medium](https://medium.com/@meier.thales)
+* [Medium](https://medium.com/@thalestmm)
 
 
 ## My Projects:
@@ -25,7 +25,7 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 
 ## My Articles:
 
-* **Medium:** https://medium.com/@meier.thales
+* **Medium:** https://medium.com/@mthalestmm
 
 ---
 <!---
