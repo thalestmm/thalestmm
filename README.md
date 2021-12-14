@@ -20,7 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## My Projects:
 
-* **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3EM33Ec
+* **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3pWzJ7J
 
 
 ## My Articles:
