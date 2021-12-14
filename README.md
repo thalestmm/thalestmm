@@ -7,9 +7,9 @@
 # Thales Monteiro Meier
 <sub>*Data Science Consultant*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+I'm a Cargo Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such analyzing the impact of transferring large military facilities through Brazil. My experience has also led me to develop analytical skills and the hability to lead team environments, while paying attention to details. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Having spent the last years applying Data Science concepts and Machine Learning techniques to develop various solutions, I've developed critical thinking and problem-solving skills.
 
 **Background in:** *Python, Operations Research, MCDM and Machine Learning*.
 
@@ -25,7 +25,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## My Articles:
 
-* **Lorem Ipsum:** https://medium.com/@meier.thales
+* **Medium:** https://medium.com/@meier.thales
 
 ---
 <!---
