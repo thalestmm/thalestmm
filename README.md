@@ -21,6 +21,7 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 ## My Projects:
 
 * **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3pWzJ7J
+* **Panorama da COVID-19 no Brasil - *DEZ/21*:** https://bit.ly/3sBB4DN
 
 
 ## My Articles:
