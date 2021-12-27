@@ -14,8 +14,8 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 **Background in:** *Python, Operations Research, MCDM and Machine Learning*.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/thalestmm/)
-* [Medium](https://medium.com/@thalestmm)
+* [LinkedIn](https://bit.ly/3EJvzGD)
+* [Medium](https://bit.ly/3ErtHBf)
 
 
 ## My Projects:
