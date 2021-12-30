@@ -11,7 +11,7 @@ I'm a Cargo Pilot at the Brazilian Air Force, where I've had the opportunity to 
 
 Having spent the last years applying Data Science concepts and Machine Learning techniques to develop various solutions, I've developed critical thinking and problem-solving skills.
 
-**Background in:** *Python, Operations Research, MCDM and Machine Learning*.
+**Background in:** *Machine Learning, Python, Operations Research and MCDM*.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3EJvzGD)
