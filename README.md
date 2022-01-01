@@ -22,6 +22,7 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 
 * **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3pWzJ7J
 * **Panorama da COVID-19 no Brasil - *DEZ/21*:** https://bit.ly/3sBB4DN
+* **Detecting Fraudulent Credit Card Transactions:** https://bit.ly/31fpa7s
 
 
 ## My Articles:
