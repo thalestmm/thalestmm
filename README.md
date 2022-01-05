@@ -28,6 +28,7 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 ## My Articles:
 
 * **Analyzing Airbnb data from Madrid:** https://bit.ly/3qtrT5H
+* **Early Detecting Credit Card Frauds:** https://bit.ly/33002SH
 
 ---
 <!---
