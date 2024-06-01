@@ -14,14 +14,14 @@ Having spent the last years applying Data Science concepts and Machine Learning 
 * [Medium](https://bit.ly/3ErtHBf)
 
 
-## My Projects:
+## Projects
 
 * **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3pWzJ7J
 * **Panorama da COVID-19 no Brasil - *DEZ/21*:** https://bit.ly/3sBB4DN
 * **Detecting Fraudulent Credit Card Transactions:** https://bit.ly/31fpa7s
 
 
-## My Articles:
+## Articles
 
 * **Analyzing Airbnb data from Madrid:** https://bit.ly/3qtrT5H
 * **Early Detecting Credit Card Frauds:** https://bit.ly/33002SH
