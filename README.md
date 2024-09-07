@@ -3,22 +3,13 @@
 
 # Thales Meier
 
-I'm a Cargo Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such as analyzing the impact of transferring large military facilities throughout Brazil. My experience has also led me to develop analytical skills and the hability to lead team environments, while paying attention to details. 
-
-Having spent the last years applying Data Science concepts and Machine Learning techniques to develop various solutions, I've developed critical thinking and problem-solving skills.
+I'm a Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such as analyzing the impact of transferring large military facilities throughout Brazil.
 
 **Background in:** *Machine Learning, Python, Operations Research and MCDM*.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3EJvzGD)
 * [Medium](https://bit.ly/3ErtHBf)
-
-
-## Projects
-
-* **Airbnb Exploratory Data Analysis - *Madrid*:** https://bit.ly/3pWzJ7J
-* **Panorama da COVID-19 no Brasil - *DEZ/21*:** https://bit.ly/3sBB4DN
-* **Detecting Fraudulent Credit Card Transactions:** https://bit.ly/31fpa7s
 
 
 ## Articles
