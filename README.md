@@ -16,7 +16,7 @@ I'm a Pilot at the Brazilian Air Force, where I've had the opportunity to develo
 * **Analyzing Airbnb data from Madrid:** https://bit.ly/3qtrT5H
 * **Early Detecting Credit Card Frauds:** https://bit.ly/33002SH
 
----
+
 <!---
 thalestmm/thalestmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
