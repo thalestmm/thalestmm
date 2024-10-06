@@ -2,18 +2,16 @@
 
 # Thales Meier
 
-I'm a Pilot at the Brazilian Air Force, where I've had the opportunity to develop a few Operations Research studies, mostly regarding the application of Multi Criteria Desicion Methods (MCDM) in real world large scale situations, such as analyzing the impact of transferring large military facilities throughout Brazil.
-
 ### Links
 * [LinkedIn](https://bit.ly/3EJvzGD)
 * [Medium](https://bit.ly/3ErtHBf)
 
-
+<!--
 ### Articles
 
 * **Analyzing Airbnb data from Madrid:** https://bit.ly/3qtrT5H
 * **Early Detecting Credit Card Frauds:** https://bit.ly/33002SH
-
+--->
 
 <!---
 thalestmm/thalestmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
