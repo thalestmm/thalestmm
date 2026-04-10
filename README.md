@@ -5,7 +5,7 @@
 Aerospace Engineering student @ ITA with a background as a military transportation pilot in the Brazilian Air Force.
 
 ### Links
-* [LinkedIn](https://bit.ly/3EJvzGD)
+* [LinkedIn](https://linkedin.com/in/thalestmm)
 * [Medium](https://bit.ly/3ErtHBf)
 
 <!--
