@@ -6,7 +6,7 @@ Aerospace Engineering student @ ITA with a background as a military transportati
 
 ### Links
 * [LinkedIn](https://linkedin.com/in/thalestmm)
-* [Medium](https://bit.ly/3ErtHBf)
+* [Medium](https://medium.com/@thalestmm)
 
 <!--
 ### Articles
