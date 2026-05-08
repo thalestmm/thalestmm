@@ -1,5 +1,3 @@
-[![author](https://img.shields.io/badge/author-thalestmm-red.svg)](https://www.linkedin.com/in/thales-m-meier-44593b17b)
-
 # Thales Meier
 
 Aerospace Engineering student @ ITA with a background as a military transportation pilot in the Brazilian Air Force.
